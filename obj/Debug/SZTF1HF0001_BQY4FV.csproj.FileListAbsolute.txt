@@ -1,0 +1,7 @@
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\bin\Debug\SZTF1HF0001_BQY4FV.exe.config
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\bin\Debug\SZTF1HF0001_BQY4FV.exe
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\bin\Debug\SZTF1HF0001_BQY4FV.pdb
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\obj\Debug\SZTF1HF0001_BQY4FV.csprojAssemblyReference.cache
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\obj\Debug\SZTF1HF0001_BQY4FV.csproj.CoreCompileInputs.cache
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\obj\Debug\SZTF1HF0001_BQY4FV.exe
+C:\Users\juhas\source\repos\SZTF 1 ELSŐ HÁZI\SZTF1HF0001_BQY4FV\obj\Debug\SZTF1HF0001_BQY4FV.pdb
